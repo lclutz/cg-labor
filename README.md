@@ -6,8 +6,8 @@ Skripte für das Computergrafik Labor
 
 Was für Vertizes in 3D funktioniert, geht auch für dreidimensionale Farbräume.
 Für ein Automatisierungsprojekt sollen Sie eine gleichmäßige Farbskala für
-eine Maschinentemperatur entwickeln, die sich von einem Blauton (25 °C) für
-den Kaltstart zu einem Grünton (50 °C) für die optimale Betriebstemperatur
+eine Maschinentemperatur entwickeln, die sich von einem Blauton (25°C) für
+den Kaltstart zu einem Grünton (50°C) für die optimale Betriebstemperatur
 bis zu einem warnenden Rotton bei 75°C erstreckt.
 
 1. Erzeugen Sie eine solche Farbskala durch Aneinanderreihung von zwei
